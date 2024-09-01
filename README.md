@@ -6,11 +6,3 @@ what is markdown
 i am learning 
 just for testing
 why we use github
-
-
-
-
-
-
-
-
